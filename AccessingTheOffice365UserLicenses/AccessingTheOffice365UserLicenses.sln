@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessingTheOffice365UserLicenses", "AccessingTheOffice365UserLicenses\AccessingTheOffice365UserLicenses.csproj", "{9FE1EBA7-4E6B-4274-9E07-27F8EED9BF92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE1EBA7-4E6B-4274-9E07-27F8EED9BF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE1EBA7-4E6B-4274-9E07-27F8EED9BF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE1EBA7-4E6B-4274-9E07-27F8EED9BF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE1EBA7-4E6B-4274-9E07-27F8EED9BF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA131A01-4C1B-48DF-81CB-E24A5DC7D7C6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://agic-crm.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AccessingTheOffice365UserLicenses\\AccessingTheOffice365UserLicenses.csproj
+		SccProjectName1 = AccessingTheOffice365UserLicenses
+		SccLocalPath1 = AccessingTheOffice365UserLicenses
+	EndGlobalSection
+EndGlobal
